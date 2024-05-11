@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Durell-gotpwned
+- 👋 Hi, My name is Dave Durell
 - 😄 Pronouns: Any/All
 - 👀 I’m interested in .Ethical Hacking and Software engineering. 
 - 🌱 I’m currently learning the materials of the Security+ exam to become certified.
