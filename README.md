@@ -1,4 +1,7 @@
-- 👋 Hi, My name is Dave Durell
+# Welcome!!
+-------------------------------------------
+- 👋 Hi, M
+- -y name is Dave Durell
 - 😄 Pronouns: Any/All
 - 👀 I’m interested in .Ethical Hacking and Software engineering. 
 - 🌱 I’m currently learning the materials of the Network+ exam to become certified(I'm alrady CompTIA A+ and Security+ Certified)
