@@ -7,6 +7,10 @@
 - 📫 You can reach me from my email ndecham02@gmail.com
 - ⚡ Fun fact: I'm on an Amazon Prime Tv show called The College Tour.
 
+-----------------------------------------------------------------------------
+You can find me on:
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dave-durell-ndecham-7b61a8237/)
+
 <!---
 Durell-gotpwned/Durell-gotpwned is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
