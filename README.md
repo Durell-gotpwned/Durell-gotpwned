@@ -1,5 +1,5 @@
 # Welcome!!
-- 👋 Hi, My name is Dave Durell, I'm an undergrad studying IT in UMass Boston
+- 👋 Hi, My name is Dave Durell Ndecham Happi, I'm an undergrad studying IT in UMass Boston
 - 😄 Pronouns: Any/All
 - 👀 I’m interested in Cybersecurity and Software engineering. 
 - 🌱 I’m currently learning the materials of the Network+ exam to become certified(I'm alrady CompTIA A+ and Security+ Certified)
