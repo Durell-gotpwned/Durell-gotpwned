@@ -3,7 +3,7 @@
 - 😄 Pronouns: Any/All
 - 👀 I’m interested in Cybersecurity and AI/Data Science. 
 - 🌱 I’m currently learning the materials of the Network+ exam to become certified(I'm alrady CompTIA A+ and Security+ Certified)
-- 😁 I aim to become a AI Security Researcher
+- 😁 I aim to become a Security Researcher without expertise in Ai/Data science.
 - 📫 You can reach me from my email ndecham06@gmail.com
 - ⚡ Fun fact: I'm on an Amazon Prime Tv show called The College Tour.
 
