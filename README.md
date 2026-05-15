@@ -1,6 +1,6 @@
 # Welcome!!
 - 👋 Hi, My name is Dave Durell Ndecham Happi, I'm an undergrad studying IT in UMass Boston
-- 😄 Pronouns: Any/All
+- 😄 Pronouns: He/Him
 - 👀 I’m interested in Cybersecurity and AI/Data Science. 
 - 🌱 I’m currently learning the materials of the Network+ exam to become certified(I'm alrady CompTIA A+ and Security+ Certified)
 - 😁 I aim to become a Security Researcher without expertise in Ai/Data science.
